@@ -17,7 +17,7 @@ Cloudflare上でChakra UIがエラーなく動作すること。
   - [x] Cloudflare Pages
   - [x] Cloudflare Workers
 - [ ] Chakra UI起動試験（`pnpm dev`）
-  - [ ] Remix App Server
+  - [x] Remix App Server
   - [ ] Cloudflare Pages
   - [ ] Cloudflare Workers
 
