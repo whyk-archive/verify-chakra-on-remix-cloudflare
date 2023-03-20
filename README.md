@@ -7,6 +7,10 @@ Remix上のChakra UIがCloudflare(PagesやWorker)で動くか検証する。
 ## 本リポジトリの達成目標
 Cloudflare上でChakra UIがエラーなく動作すること。
 
+## Chakra UIの適用方法
+[公式ドキュメント](https://chakra-ui.com/getting-started/remix-guide)を参照。  
+※ `@emotion/cache`が足らないので`pnpm i @emotion/cache^11`をする
+
 ## タスクリスト
 - [x] 初期起動試験（`pnpm dev`）
   - [x] Remix App Server
