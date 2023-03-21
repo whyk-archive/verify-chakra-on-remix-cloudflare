@@ -35,5 +35,10 @@ Cloudflare上でChakra UIがエラーなく動作すること。
 ### Remix App Server
 Chakra UIの公式実装ドキュメントに従って無事に成功。
 
+### Cloudflare Pages
+#### Chakra UIの公式実装ドキュメントに従った実装
+以下のエラーを出力して失敗。
+![Cloudflare PagesでChakra UIを動かしたときのエラー出力](./assets/cloudflare-pages-failed.png)
+
 ## 参考資料
 - 特になし
