@@ -31,5 +31,9 @@ Cloudflare上でChakra UIがエラーなく動作すること。
 ### Cloudflare Workers
 ![起動時の選択オプション](./assets/cloudflare-workers.png)
 
+## 結果
+### Remix App Server
+Chakra UIの公式実装ドキュメントに従って無事に成功。
+
 ## 参考資料
 - 特になし
